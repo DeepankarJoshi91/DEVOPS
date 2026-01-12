@@ -1,14 +1,16 @@
 # DEVOPS
 
-What is DevOps ?
+What is DevOps ? <br>
 DevOps is the process of improving the application delivery bu ensuring the following steps -
-Automation.
-Quality.
-Continuous Monitoring.
-Continuous Testing.
+Automation.<br>
+Quality.<br>
+Continuous Monitoring.<br>
+Continuous Testing.<br>
 
 
-Why Devops ?
-DevOps is used to make software devlopment and deployment faster, more reliable, and more efficient by using automation and collaboration between teams.
+Why Devops ? <br>
+DevOps is used to make software devlopment and deployment faster, more reliable, and more efficient by using automation and collaboration between teams. <br>
+
+
 
 
