@@ -1,7 +1,7 @@
 # DEVOPS
 
 What is DevOps ? <br>
-DevOps is the process of improving the application delivery bu ensuring the following steps - <br>
+DevOps is the process of improving the application delivery by ensuring the following steps - <br>
 Automation.<br>
 Quality.<br>
 Continuous Monitoring.<br>
