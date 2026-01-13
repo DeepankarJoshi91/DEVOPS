@@ -26,7 +26,8 @@ Works like a real server.
 A Hypervisor is a software that creates and manages virtual machines on a physical computer.
 
 Example
-Amazon has build their data centers in Mumbai. So to do that Amazon will buy uge land and they will install their physical servers. <br>
+
+Amazon has build their data centers in Mumbai. So to do that Amazon will buy huge land and they will install their physical servers. <br>
 If you will request for a virtual server then request is send to one of the data centers on one of the physical server a hypervisor is installed this hypervisor will create a virtual vachine for you and it will share the required details. 
 
 
